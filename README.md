@@ -1,2 +1,3 @@
-# web-manifest-sample
-Sample Web Manifest
+# Sample Web Manifest File
+
+`<link rel="manifest" href="/manifest.json">`
